@@ -1,0 +1,24 @@
+{
+  "name": "poc-platforms",
+  "version": "1.0.0",
+  "description": "Poc de plataformas mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoiuri/poc-platforms.git"
+  },
+  "author": "Hugo Iuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoiuri/poc-platforms/issues"
+  },
+  "homepage": "https://github.com/hugoiuri/poc-platforms#readme",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
